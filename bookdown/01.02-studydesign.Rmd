@@ -1,21 +1,21 @@
-# A brief introduction to research design{#studydesign}
+#Uma breve introdução ao desenho de pesquisa{#studydesign}
 
->*To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of.*
+>*Consultar o estatístico após a conclusão de um experimento muitas vezes significa apenas pedir-lhe que realize um exame post-mortem. Ele talvez possa dizer do que o experimento morreu.*
 >
->-- Sir Ronald Fisher^[Presidential Address to the First Indian Statistical Congress, 1938. Source: http://en.wikiquote.org/wiki/Ronald_Fisher]
+>-- Sir Ronald Fisher^[Discurso presidencial no Primeiro Congresso Indiano de Estatística, 1938. Fonte: http://en.wikiquote.org/wiki/Ronald_Fisher]
 
 
-In this chapter, we're going to start thinking about the basic ideas that go into designing a study, collecting data, checking whether your data collection works, and so on. It won't give you enough information to allow you to design studies of your own, but it will give you a lot of the basic tools that you need to assess the studies done by other people. However, since the focus of this book is much more on data analysis than on data collection, I'm only giving a very brief overview. Note that this chapter is "special" in two ways. Firstly, it's much more psychology-specific than the later chapters. Secondly, it focuses much more heavily on the scientific problem of research methodology, and much less on the statistical problem of data analysis. Nevertheless, the two problems are related to one another, so it's traditional for stats textbooks to discuss the problem in a little detail. This chapter relies heavily on @Campbell1963 for the discussion of study design, and @Stevens1946 for the discussion of scales of measurement. Later versions will attempt to be more precise in the citations. 
+Neste capítulo, começaremos a refletir sobre as ideias básicas que envolvem a concepção de um estudo, a coleta de dados, a verificação do funcionamento da coleta de dados e assim por diante. Não forneceremos informações suficientes para que você possa elaborar seus próprios estudos, mas forneceremos muitas das ferramentas básicas necessárias para avaliar os estudos realizados por outras pessoas. No entanto, como o foco deste livro é muito mais a análise de dados do que a coleta de dados, apresentarei apenas uma breve visão geral. Observe que este capítulo é "especial" de duas maneiras. Em primeiro lugar, é muito mais específico para a psicologia do que os capítulos posteriores. Em segundo lugar, concentra-se muito mais no problema científico da metodologia de pesquisa e muito menos no problema estatístico da análise de dados. No entanto, os dois problemas estão relacionados, por isso é tradicional que os livros didáticos de estatística discutam o problema com um pouco de detalhe. Este capítulo se baseia fortemente em @Campbell1963 e @Stevens1946 para a discussão das escalas de medida. 
 
-##Introduction to psychological measurement{#measurement}
+##Introdução à psicometria (mensuração psicológica){#measurement}
 
-The first thing to understand is data collection can be thought of as a kind of ***measurement***. That is, what we're trying to do here is measure something about human behaviour or the human mind. What do I mean by "measurement"? 
+A primeira coisa que devemos entender é que a coleta de dados pode ser considerada uma espécie de **mensuração**. Ou seja, o que estamos tentando fazer aqui é mensurar algo sobre o comportamento humano ou a mente humana. O que quero dizer com "mensuração"? 
 
-###Some thoughts about psychological measurement
+###Algumas reflexões sobre a mensuração psicológica
 
-Measurement itself is a subtle concept, but basically it comes down to finding some way of assigning numbers, or labels, or some other kind of well-defined descriptions to "stuff". So, any of the following would count as a psychological measurement:
+A mensuração em si é um conceito sutil, mas basicamente se resume a encontrar uma maneira de atribuir números, rótulos ou algum outro tipo de descrição bem definida a "coisas". Portanto, qualquer um dos seguintes contaria como uma medição psicológica:
 
-
+PAROU AQUI
 - My **age** is *33 years*.
 - I *do not* **like anchovies**.
 - My **chromosomal gender** is *male*. 
