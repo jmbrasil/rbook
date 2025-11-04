@@ -15,7 +15,7 @@ A primeira coisa que devemos entender é que a coleta de dados pode ser consider
 
 A mensuração em si é um conceito sutil, mas basicamente se resume a encontrar uma maneira de atribuir números, rótulos ou algum outro tipo de descrição bem definida a "coisas". Portanto, qualquer um dos seguintes contaria como uma medição psicológica:
 
-PAROU AQUI
+PAROU AQUI.
 - My **age** is *33 years*.
 - I *do not* **like anchovies**.
 - My **chromosomal gender** is *male*. 

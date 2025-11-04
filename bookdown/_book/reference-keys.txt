@@ -170,7 +170,6 @@ the-cautionary-tale-of-simpsons-paradox
 statistics-in-psychology
 statistics-in-everyday-life
 theres-more-to-research-methods-than-statistics
-studydesign
 continuousdiscrete
 introR
 gettingR
@@ -680,3 +679,4 @@ a-quick-refresher-1
 the-bayesian-version-1
 constructing-bayesian-type-ii-tests
 summary-14
+running-the-test-in-r
