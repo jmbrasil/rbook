@@ -16,211 +16,191 @@ A primeira coisa que devemos entender é que a coleta de dados pode ser consider
 A mensuração em si é um conceito sutil, mas basicamente se resume a encontrar uma maneira de atribuir números, rótulos ou algum outro tipo de descrição bem definida a "coisas". Portanto, qualquer um dos seguintes contaria como uma medição psicológica:
 
 PAROU AQUI.
-- My **age** is *33 years*.
-- I *do not* **like anchovies**.
-- My **chromosomal gender** is *male*. 
-- My **self-identified gender** is *male*.^[Well... now this is awkward, isn't it? This section is one of the oldest parts of the book, and it's outdated in a rather embarrassing way. I wrote this in 2010, at which point all of those facts *were* true. Revisiting this in 2018... well I'm not 33 any more, but that's not surprising I suppose. I can't imagine my chromosomes have changed, so I'm going to guess my karyotype was then and is now XY. The self-identified gender, on the other hand... ah. I suppose the fact that the title page now refers to me as Danielle rather than Daniel might possibly be a giveaway, but I don't typically identify as "male" on a gender questionnaire these days, and I prefer *"she/her"* pronouns as a default (it's a long story)!  I did think a little about how I was going to handle this in the book, actually. The book has a somewhat distinct authorial voice to it, and I feel like it would be a rather different work if I went back and wrote everything as Danielle and updated all the pronouns in the work. Besides, it would be a lot of work, so I've left my name as  "Dan" throughout the book, and in ant case "Dan" is a perfectly good nickname for "Danielle", don't you think? In any case, it's not a big deal. I only wanted to mention it to make life a little easier for readers who aren't sure how to refer to me. I still don't like anchovies though :-)] 
+- Minha **idade** é *33* anos.
+- Eu *não* **gosto de anchovas.**
+- Meu **gênero cromossômico** é *masculino*.
+- Meu **gênero autoidentificado** é *feminino*.???^[Well... now this is awkward, isn't it? This section is one of the oldest parts of the book, and it's outdated in a rather embarrassing way. I wrote this in 2010, at which point all of those facts *were* true. Revisiting this in 2018... well I'm not 33 any more, but that's not surprising I suppose. I can't imagine my chromosomes have changed, so I'm going to guess my karyotype was then and is now XY. The self-identified gender, on the other hand... ah. I suppose the fact that the title page now refers to me as Danielle rather than Daniel might possibly be a giveaway, but I don't typically identify as "male" on a gender questionnaire these days, and I prefer *"she/her"* pronouns as a default (it's a long story)!  I did think a little about how I was going to handle this in the book, actually. The book has a somewhat distinct authorial voice to it, and I feel like it would be a rather different work if I went back and wrote everything as Danielle and updated all the pronouns in the work. Besides, it would be a lot of work, so I've left my name as  "Dan" throughout the book, and in ant case "Dan" is a perfectly good nickname for "Danielle", don't you think? In any case, it's not a big deal. I only wanted to mention it to make life a little easier for readers who aren't sure how to refer to me. I still don't like anchovies though :-)]??? 
 
+Na lista acima, a parte **em negrito** é "a coisa a ser medida" e a parte em itálico é "a medição em si". Na verdade, podemos sofisticar um pouco mais essa mensuração, pensando no conjunto de medições possíveis que poderiam ter surgido em cada caso:
 
-In the short list above, the **bolded part** is "the thing to be measured", and the *italicised part* is "the measurement itself". In fact, we can expand on this a little bit, by thinking about the set of possible measurements that could have arisen in each case:
+- Minha **idade** (em anos) poderia ter sido *0, 1, 2, 3* ... etc. O limite superior para a minha idade é um pouco vago, mas na prática seria seguro dizer que a maior idade possível é *150*, já que nenhum ser humano jamais viveu tanto.
+- Quando me perguntaram se eu **gosto de anchovas**, eu poderia ter dito que *gosto*, ou *não gosto*, ou *não tenho opinião*, ou *às vezes gosto.*
+- Meu **gênero cromossômico** quase certamente será *masculino* ($XY$) ou *feminino* ($XX$), mas existem algumas outras possibilidades. Eu também poderia ter *síndrome de Klinfelter* ($XXY$), que é mais semelhante ao masculino do que ao feminino. E imagino que existam outras possibilidades também.
+- Meu gênero **autoidentificado** também tem grande probabilidade de ser masculino ou feminino, mas não precisa ser necessariamente compatível com meu gênero cromossômico. Também posso escolher não me identificar com *nenhum* ou me chamar explicitamente de *transgênero*.
 
+Como você pode ver, para algumas coisas (como a idade) parece bastante óbvio qual deve ser o conjunto de medidas possíveis, enquanto para outras fica um pouco complicado. Mas quero ressaltar que, mesmo no caso da idade de alguém, as coisas podem ser muito mais sutis do que isso. Por exemplo, no exemplo acima, presumi que não haveria problema em medir a idade em anos. Mas, se você for um psicólogo do desenvolvimento, isso seria muito rudimentar, e por isso costuma-se medir a idade em *anos e meses* (se uma criança tem 2 anos e 11 meses, geralmente é escrito como "2;11"). Se você estiver interessado em recém-nascidos, pode querer medir a idade em *dias desde o nascimento*, talvez até mesmo *horas desde o nascimento*. Em outras palavras, a maneira como você especifica os valores de medida permitidos faz a diferença.
 
-- My **age** (in years) could have been *0, 1, 2, 3 ...*, etc. The upper bound on what my age could possibly be is a bit fuzzy, but in practice you'd be safe in saying that the largest possible age is *150*, since no human has ever lived that long.
-- When asked if I **like anchovies**, I might have said that *I do*, or *I do not*, or *I have no opinion*, or *I sometimes do*. 
-- My **chromosomal gender** is almost certainly going to be *male (XY)* or *female (XX)*, but there are a few other possibilities. I could also have *Klinfelter's syndrome (XXY)*, which is more similar to male than to female. And I imagine there are other possibilities too.
-- My **self-identified gender** is also very likely to be *male* or *female*, but it doesn't have to agree with my chromosomal gender. I may also choose to identify with *neither*, or to explicitly call myself *transgender*.
+Olhando mais de perto, você também pode perceber que o conceito de "idade" não é tão preciso assim. Em geral, quando dizemos "idade", implicitamente queremos dizer "o tempo decorrido desde o nascimento". Mas essa nem sempre é a maneira correta de contar o tempo. Suponha que você esteja interessado em como recém-nascidos controlam os movimentos dos olhos. Se você se interessa por crianças em período neonatal, também pode começar a se preocupar com o fato de que "nascimento" não é o único momento significativo com o qual se preocupar. Se a bebê Alice nasce 3 semanas prematura e a bebê Bianca nasce 1 semana atrasada, faria sentido dizer que elas têm a "mesma idade" se as encontrássemos "2 horas após o nascimento"? Em certo sentido, sim. Por convenção social, usamos o nascimento como referência para falar sobre idade na vida cotidiana, uma vez que define o tempo durante o qual a pessoa opera como uma entidade independente no mundo. Mas, de uma perspectiva científica, essa não é a única coisa com a qual nos importamos. Quando pensamos na biologia dos seres humanos, muitas vezes é útil pensar em nós mesmos como organismos que crescem e amadurecem desde a concepção, e dessa perspectiva, Alice e Bianca não têm a mesma idade. Portanto, você pode definir o conceito de "idade" de duas maneiras diferentes: o tempo decorrido desde a concepção e o tempo decorrido desde o nascimento. Ao lidar com adultos, não fará muita diferença, mas ao lidar com recém-nascidos, talvez faça.
 
+Indo além dessas particularidades, há a questão da metodologia. Qual "método de medição" específico você usará para descobrir a idade de alguém? Como antes, existem muitas possibilidades diferentes:
 
-As you can see, for some things (like age) it seems fairly obvious what the set of possible measurements should be, whereas for other things it gets a bit tricky. But I want to point out that even in the case of someone's age, it's much more subtle than this. For instance, in the example above, I assumed that it was okay to measure age in years. But if you're a developmental psychologist, that's way too crude, and so you often measure age in *years and months* (if a child is 2 years and 11 months, this is usually written as "2;11"). If you're interested in newborns, you might want to measure age in *days since birth*, maybe even *hours since birth*. In other words, the way in which you specify the allowable measurement values is important. 
+- Você poderia simplesmente perguntar às pessoas "quantos anos você tem?". O método de autorrelato é rápido, barato e fácil. Mas só funciona com pessoas com idade suficiente para entender a pergunta, e algumas pessoas mentem sobre sua idade.
+- Você poderia perguntar a uma autoridade (por exemplo, um pai/mãe) "quantos anos tem seu filho(a)?". Esse método é rápido e, ao lidar com crianças, não é tão difícil, já que o pai/mãe está quase sempre por perto. Não funciona tão bem se você quiser saber a "idade desde a concepção", já que muitos pais não conseguem dizer com certeza quando a concepção ocorreu. Para isso, você pode precisar de uma autoridade diferente (por exemplo, um obstetra).
+- Você poderia consultar registros oficiais, por exemplo, certidões de nascimento ou óbito. Esse é um esforço demorado e frustrante, mas tem suas utilidades (por exemplo, se a pessoa já morreu).
 
-Looking at this a bit more closely, you might also realise that the concept of "age" isn't actually all that precise. In general, when we say "age" we implicitly mean "the length of time since birth". But that's not always the right way to do it. Suppose you're interested in how newborn babies control their eye movements. If you're interested in kids that young, you might also start to worry that "birth" is not the only meaningful point in time to care about. If Baby Alice is born 3 weeks premature and Baby Bianca is born 1 week late, would it really make sense to say that they are the "same age" if we encountered them "2 hours after birth"? In one sense, yes: by social convention, we use birth as our reference point for talking about age in everyday life, since it defines the amount of time the person has been operating as an independent entity in the world, but from a scientific perspective that's not the only thing we care about. When we think about the biology of human beings, it's often useful to think of ourselves as organisms that have been growing and maturing since conception, and from that perspective Alice and Bianca aren't the same age at all. So you might want to define the concept of "age" in two different ways: the length of time since conception, and the length of time since birth. When dealing with adults, it won't make much difference, but when dealing with newborns it might.
+### Operacionalização: definindo seu processo de medição
+
+Todas as ideias discutidas na seção anterior estão relacionadas ao conceito de **operacionalização**. Para ser um pouco mais preciso sobre a ideia, operacionalização é o processo pelo qual pegamos um conceito significativo, mas um tanto vago, e o transformamos em uma medida precisa. O processo de operacionalização pode envolver várias coisas diferentes:
+
+-   Ser preciso sobre o que você está tentando medir. Por exemplo, "idade" significa "tempo desde o nascimento" ou "tempo desde a concepção" no contexto da sua pesquisa?
+
+-   Determinar qual método você usará para medi-la. Você usará autorrelato para medir a idade, perguntará a um dos pais ou consultará um registro oficial? Se estiver usando autorrelato, como formulará a pergunta?
+
+-   Definir o conjunto de valores permitidos que a medição pode assumir. Observe que esses valores nem sempre precisam ser numéricos, embora frequentemente sejam. Ao medir a idade, os valores são numéricos, mas ainda precisamos pensar cuidadosamente sobre quais números são permitidos. Queremos a idade em anos, anos e meses, dias ou horas? Para outros tipos de medições (por exemplo, gênero), os valores não são numéricos. Mas, assim como antes, precisamos pensar sobre quais valores são permitidos. Se estamos pedindo às pessoas que informem seu gênero, quais opções permitimos que elas escolham? É suficiente permitir apenas "masculino" ou "feminino"? Você precisa de uma opção "outro"? Ou não deveríamos dar às pessoas opções específicas e, em vez disso, deixá-las responder com suas próprias palavras? E se você abrir o conjunto de valores possíveis para incluir todas as respostas verbais possíveis, como interpretaria essas respostas?
  
-Moving beyond these issues, there's the question of methodology. What specific "measurement method" are you going to use to find out someone's age? As before, there are lots of different possibilities:
+A operacionalização é uma tarefa complexa e não existe uma "maneira única e verdadeira" de fazê-la. A maneira como você escolhe operacionalizar o conceito informal de "idade" ou "gênero" em uma medição formal depende da finalidade da medição. Muitas vezes, você descobrirá que a comunidade de cientistas que trabalha em sua área tem algumas ideias bastante consolidadas sobre como fazer isso. Em outras palavras, a operacionalização precisa ser pensada caso a caso. No entanto, ainda que existam muitas questões específicas em cada projeto de pesquisa, existem alguns aspectos que são bastante gerais.
 
+Antes de prosseguir, gostaria de parar um momento para esclarecer nossa terminologia e introduzir um novo termo. Aqui estão quatro coisas diferentes que estão intimamente relacionadas entre si:
 
-- You could just ask people "how old are you?" The method of self-report is fast, cheap and easy, but it only works with people old enough to understand the question, and some people lie about their age.
-- You could ask an authority (e.g., a parent) "how old is your child?" This method is fast, and when dealing with kids it's not all that hard since the parent is almost always around. It doesn't work as well if you want to know "age since conception", since a lot of parents can't say for sure when conception took place. For that, you might need a different authority (e.g., an obstetrician). 
-- You could look up official records, like birth certificates. This is time consuming and annoying, but it has its uses (e.g., if the person is now dead).  
+-   **Um construto teórico.** É aquilo que você está tentando medir, como "idade", "gênero" ou uma "opinião". Um constructo teórico não pode ser observado diretamente e, muitas vezes, é um pouco vago.
+-   **Uma medida.** Uma medida se refere ao método ou à ferramenta que você usa para realizar suas observações. Uma pergunta em uma pesquisa, uma observação comportamental ou uma tomografia cerebral podem ser considerados mensurações.
+-   **Uma operacionalização.** O termo "operacionalização" se refere à conexão lógica entre a mensuração e o constructo teórico, ou ao processo pelo qual tentamos derivar uma medida de um constructo teórico.
+- **Uma variável.** Finalmente, um novo termo. Uma variável é o que obtemos quando aplicamos nossa mensuração a algo no mundo. Ou seja, as variáveis são os "dados" reais que obtemos em nossos conjuntos de dados.
 
+Na prática, até mesmo os cientistas tendem a confundir a distinção entre essas coisas, mas é muito útil tentar entender as diferenças.
 
-###Operationalisation: defining your measurement
+## Escalas de mensuração {#scales}
 
-All of the ideas discussed in the previous section all relate to the concept of ***operationalisation***. To be a bit more precise about the idea, operationalisation is the process by which we take a meaningful but somewhat vague concept, and turn it into a precise measurement. The process of operationalisation can involve several different things:
+Como indicado na seção anterior, o resultado de uma mensuração psicológica é chamado de variável. Mas nem todas as variáveis são do mesmo tipo, por isso é útil entender quais são os tipos existentes. Um conceito muito útil para distinguir entre diferentes tipos de variáveis é o que conhecemos como **escalas de mensuração**.
 
+### Escala nominal
 
-- Being precise about what you are trying to measure. For instance, does "age" mean "time since birth" or "time since conception" in the context of your research?
-- Determining what method you will use to measure it. Will you use self-report to measure age, ask a parent, or look up an official record? If you're using self-report, how will you phrase the question? 
-- Defining the set of the allowable values that the measurement can take. Note that these values don't always have to be numerical, though they often are. When measuring age, the values are numerical, but we still need to think carefully about what numbers are allowed. Do we want age in years, years and months, days, hours? Etc. For other types of measurements (e.g., gender), the values aren't numerical. But, just as before, we need to think about what values are allowed. If we're asking people to self-report their gender, what options to we allow them to choose between? Is it enough to allow only "male" or "female"? Do you need an "other" option? Or should we not give people any specific options, and let them answer in their own words? And if you open up the set of possible values to include all verbal response, how will you interpret their answers?
+Uma variável de **escala nominal** (também chamada de variável **categórica**) é aquela em que não há uma relação particular entre as diferentes possibilidades. Para esses tipos de variáveis, não faz sentido dizer que uma delas é "maior" ou "melhor" do que qualquer outra, e absolutamente não faz sentido calcular a média entre elas. O exemplo clássico disso é a "cor dos olhos". Os olhos podem ser azuis, verdes ou castanhos, entre outras possibilidades, mas nenhuma delas é "maior" do que qualquer outra. Como resultado, seria muito estranho falar sobre uma "cor média dos olhos". Da mesma forma, o gênero também é nominal: masculino não é melhor ou pior do que feminino. Também não faz sentido tentar falar sobre um "gênero médio". Em resumo, variáveis de escala nominal são aquelas para as quais a única coisa que se pode dizer sobre as diferentes possibilidades é que elas são diferentes. Só isso.
 
+Vamos analisar isso um pouco mais de perto. Suponha que eu estivesse pesquisando como as pessoas se deslocam para o trabalho e para casa. Uma variável que eu teria que mensurar seria o tipo de transporte que as pessoas usam para chegar ao trabalho. Essa variável "tipo de transporte" poderia ter vários valores possíveis, incluindo: "trem", "ônibus", "carro", "bicicleta". Por enquanto, vamos supor que essas quatro sejam as únicas possibilidades. Então, imagine que eu pergunte a 100 pessoas como elas chegaram ao trabalho hoje, com este resultado:
  
-Operationalisation is a tricky business, and there's no "one, true way" to do it. The way in which you choose to operationalise the informal concept of "age" or "gender" into a formal measurement depends on what you need to use the measurement for. Often you'll find that the community of scientists who work in your area have some fairly well-established ideas for how to go about it. In other words, operationalisation needs to be thought through on a case by case basis. Nevertheless, while there a lot of issues that are specific to each individual research project, there are some aspects to it that are pretty general. 
-
-Before moving on, I want to take a moment to clear up our terminology, and in the process introduce one more term. Here are four different things that are closely related to each other:
-
-
-- ***A theoretical construct***. This is the thing that you're trying to take a measurement of, like "age", "gender" or an "opinion". A theoretical construct can't be directly observed, and often they're actually a bit vague. 
-- ***A measure***. The measure refers to the method or the tool that you use to make your observations. A question in a survey, a behavioural observation or a brain scan could all count as a measure. 
-- ***An operationalisation***. The term "operationalisation" refers to the logical connection between the measure and the theoretical construct, or to the process by which we try to derive a measure from a theoretical construct.
-- ***A variable***. Finally, a new term. A variable is what we end up with when we apply our measure to something in the world. That is, variables are the actual "data" that we end up with in our data sets.
+|Transporte|Número de pessoas|
+|:-:|:-:|
+| (1) Trem | 12|
+| (2) Ônibus | 30|
+| (3) Carro | 48|
+| (4) Bicicleta | 10|
 
 
+Então, qual é o meio de transporte médio? Obviamente, a resposta aqui é que não existe. É uma pergunta boba. Pode-se dizer que viajar de carro é o meio de transporte mais popular e viajar de trem é o menos popular, mas isso é tudo. Da mesma forma, observe que a ordem em que listo as opções não é muito interessante. Eu poderia ter escolhido exibir os dados como em
 
-In practice, even scientists tend to blur the distinction between these things, but it's very helpful to try to understand the differences.
-
-##Scales of measurement{#scales}
-
-As the previous section indicates, the outcome of a psychological measurement is called a  variable. But not all variables are of the same qualitative type, and it's very useful to understand what types there are. A very useful concept for distinguishing between different types of variables is what's known as ***scales of measurement***. 
-
-
-###Nominal scale
-
-A **_nominal scale_** variable (also referred to as a ***categorical*** variable) is one in which there is no particular relationship between the different possibilities: for these kinds of variables it doesn't make any sense to say that one of them is "bigger' or "better" than any other one, and it absolutely doesn't make any sense to average them. The classic example for this is "eye colour". Eyes can be blue, green and brown, among other possibilities, but none of them is any "better" than any other one. As a result, it would feel really weird to talk about an "average eye colour". Similarly, gender is nominal too: male isn't better or worse than female, neither does it make sense to try to talk about an "average gender". In short, nominal scale variables are those for which the only thing you can say about the different possibilities is that they are different. That's it.
-
-Let's take a slightly closer look at this. Suppose I was doing research on how people commute to and from work. One variable I would have to measure would be what kind of transportation people use to get to work. This "transport type" variable could have quite a few possible values, including: "train", "bus", "car", "bicycle", etc. For now, let's suppose that these four are the only possibilities, and suppose that when I ask 100 people how they got to work today, and I get this:
- 
 |Transportation|Number of people|
 |:-:|:-:|
-| (1) Train | 12|
-| (2) Bus | 30|
-| (3) Car | 48|
-| (4) Bicycle | 10|
-  
-So, what's the average transportation type? Obviously, the answer here is that there isn't one. It's a silly question to ask. You can say that travel by car is the most popular method, and travel by train is the least popular method, but that's about all. Similarly, notice that the order in which I list the options isn't very interesting. I could have chosen to display the data like this
- 
+| (3) Carro | 48|
+| (1) Trem | 12|
+| (4) Bicicleta | 10|
+| (2) Ônibus | 30|
 
- |Transportation|Number of people|
-|:-:|:-:|
-| (3) Car | 48|
-| (1) Train | 12|
-| (4) Bicycle | 10|
-| (2) Bus | 30|
+...e nada realmente muda.
 
-and nothing really changes.
+### Escala ordinal
 
-###Ordinal scale
+Variáveis de **escala ordinal** têm um pouco mais de estrutura do que variáveis de escala nominal, mas não muito. Uma variável de escala ordinal é aquela em que existe uma maneira natural e significativa de ordenar as diferentes possibilidades, mas não se pode fazer nada além disso. O exemplo usual de uma variável ordinal é "posição final em uma corrida". Você *pode* dizer que a pessoa que terminou em primeiro foi mais rápida do que a pessoa que terminou em segundo, mas *não* sabe quanto mais rápido. Como consequência, sabemos que o 1$^\circ$ > 2$^\circ$, e sabemos que o 2$^\circ$ > 3$^\circ$, mas a diferença entre o 1$^\circ$ e o 2$^\circ$ pode ser muito maior do que a diferença entre o 2$^\circ$ e o 3$^\circ$.
 
-**_Ordinal scale_** variables have a bit more structure than nominal scale variables, but not by a lot. An ordinal scale variable is one in which there is a natural, meaningful way to order the different possibilities, but you can't do anything else. The usual example given of an ordinal variable is "finishing position in a race". You *can* say that the person who finished first was faster than the person who finished second, but you *don't* know how much faster. As a consequence we know that 1st > 2nd, and we know that 2nd > 3rd, but the difference between 1st and 2nd might be much larger than the difference between 2nd and 3rd.
+Aqui está um exemplo psicologicamente mais interessante. Suponha que eu esteja interessado nas atitudes das pessoas em relação às mudanças climáticas. Então, peço a algumas pessoas que escolham a afirmação (dentre quatro afirmações listadas) que mais se aproxima de suas crenças:
 
-Here's an more psychologically interesting example. Suppose I'm interested in people's attitudes to climate change, and I ask them to pick one of these four statements that most closely matches their beliefs:
+>(1) As temperaturas estão subindo devido à atividade humana
+>(2) As temperaturas estão subindo, mas não sabemos por quê
+>(3) As temperaturas estão subindo, mas não por causa dos humanos
+>(4) As temperaturas não estão subindo
 
->(1) Temperatures are rising, because of human activity
->(2) Temperatures are rising, but we don't know why
->(3) Temperatures are rising, but not because of humans
->(4) Temperatures are not rising
+Observe que essas quatro afirmações, na verdade, têm uma ordem natural, em termos de "até que ponto concordam com a ciência atual". A afirmação 1 é uma correspondência próxima, a afirmação 2 é uma correspondência razoável, a afirmação 3 não é uma correspondência muito boa e a afirmação 4 está em forte oposição à ciência atual. Portanto, em termos do que me interessa (até que ponto as pessoas endossam a ciência), posso ordenar os itens como 1 > 2 > 3 > 4. Como essa ordem existe, seria muito estranho listar as opções assim...
 
-Notice that these four statements actually do have a natural ordering, in terms of "the extent to which they agree with the current science". Statement 1 is a close match, statement 2 is a reasonable match, statement 3 isn't a very good match, and statement 4 is in strong opposition to the science. So, in terms of the thing I'm interested in (the extent to which people endorse the science), I can order the items as 1 > 2 > 3 > 4. Since this ordering exists,  it would be very weird to list the options like this...
+>(3) As temperaturas estão subindo, mas não por causa dos humanos
+>(1) As temperaturas estão subindo devido à atividade humana
+>(4) As temperaturas não estão subindo
+>(2) As temperaturas estão subindo, mas não sabemos por quê
 
->(3) Temperatures are rising, but not because of humans
->(1) Temperatures are rising, because of human activity
->(4) Temperatures are not rising
->(2) Temperatures are rising, but we don't know why 
+... porque parece violar a "estrutura" natural da pergunta.
 
-... because it seems to violate the natural "structure" to the question. 
+Então, vamos supor que eu fizesse essas perguntas a 100 pessoas e obtivesse as respostas abaixo:
 
-So, let's suppose I asked 100 people these questions, and got the following answers:
-
-|Response                                               | Number|
+|Resposta                                               | Núemro|
 |--------                                               |:-----:|
-|(1) Temperatures are rising, because of human activity | 51    |
-|(2) Temperatures are rising, but we don't know why     | 20    |
-|(3) Temperatures are rising, but not because of humans | 10    |
-|(4) Temperatures are not rising                        | 19    |
+|(1) As temperaturas estão subindo devido à atividade humana | 51    |
+|(2) As temperaturas estão subindo, mas não sabemos por quê  | 20    |
+|(3) As temperaturas estão subindo, mas não por causa dos humanos | 10    |
+|(4) As temperaturas não estão subindo                        | 19    |
 
-When analysing these data, it seems quite reasonable to try to group (1), (2) and (3) together, and say that 81 of 100 people were willing to *at least partially* endorse the science. And it's *also* quite reasonable to group (2), (3) and (4) together and say that 49 of 100 people registered *at least some disagreement* with the dominant scientific view. However, it would be entirely bizarre to try to group (1), (2) and (4) together and say that 90 of 100 people said... what? There's nothing sensible that allows you to group those responses together at all.
+Ao analisar esses dados, parece bastante razoável tentar agrupar (1), (2) e (3) e dizer que 81 em cada 100 pessoas estavam dispostas a endossar, pelo menos parcialmente, a ciência. E também é bastante razoável agrupar (2), (3) e (4) e dizer que 49 em cada 100 pessoas registraram *pelo menos alguma discordância* com a visão científica dominante. E seria perfeitamente razoável tentar agrupar (1), (2) e (4) e dizer que 90 em cada 100 pessoas disseram... o quê? Não há nada razoável que permita agrupar essas respostas.
 
-That said, notice that while we *can* use the natural ordering of these items to construct sensible groupings, what we *can't* do is average them. For instance, in my simple example here, the "average" response to the question is 1.97. If you can tell me what that means, I'd love to know. Because that sounds like gibberish to me!
+Dito isso, observe que, embora *possamos* usar a ordem natural desses itens para construir agrupamentos razoáveis, o que *não podemos* fazer é calcular a média deles. Por exemplo, no meu exemplo simples aqui, a resposta "média" para a pergunta é 1,97. Se você puder me dizer o que isso significa, eu adoraria saber, porque me parece algo sem lógica!
 
-###Interval scale
+### Escala intervalar
 
-In contrast to nominal and ordinal scale variables, **_interval scale_** and ratio scale variables are variables for which the numerical value is genuinely meaningful. In the case of interval scale variables, the *differences* between the numbers are interpretable, but the variable doesn't have a "natural" zero value. A good example of an interval scale variable is measuring temperature in degrees celsius. For instance, if it was 15$^\circ$ yesterday and 18$^\circ$ today, then the 3$^\circ$ difference between the two is genuinely meaningful. Moreover, that 3$^\circ$ difference is *exactly the same* as the 3$^\circ$ difference between 7$^\circ$ and 10$^\circ$. In short, addition and subtraction are meaningful for interval scale variables.^[Actually, I've been informed by readers with greater physics knowledge than I that temperature isn't strictly an interval scale, in the sense that the amount of energy required to heat something up by 3$^\circ$ depends on it's current temperature. So in the sense that physicists care about, temperature isn't actually interval scale. But it still makes a cute example, so I'm going to ignore this little inconvenient truth.] 
+Ao contrário das variáveis de escala nominal e ordinal, as variáveis de **escala intervalar** e de escala de razão são variáveis para as quais o valor numérico é genuinamente significativo. No caso de variáveis de escala intervalar, as *diferenças* entre os números são interpretáveis, mas a variável não tem um valor zero "natural". Um bom exemplo de uma variável de escala intervalar é a medição da temperatura em graus Celsius. Por exemplo, se ontem foram 15$^{\circ}$ e hoje foram 18$^{\circ}$, então a diferença de 3$^{\circ}$ entre as duas medições é genuinamente significativa. Além disso, essa diferença de 3$^{\circ}$ é *exatamente a mesma* que a diferença de 3$^{\circ}$ entre 7$^{\circ}$ e 10$^{\circ}$. Em resumo, adição e subtração são significativas para variáveis de escala intervalar.???^[Actually, I've been informed by readers with greater physics knowledge than I that temperature isn't strictly an interval scale, in the sense that the amount of energy required to heat something up by 3$^\circ$ depends on it's current temperature. So in the sense that physicists care about, temperature isn't actually interval scale. But it still makes a cute example, so I'm going to ignore this little inconvenient truth.]??? 
 
-However, notice that the 0$^\circ$ does not mean "no temperature at all": it actually means "the temperature at which water freezes", which is pretty arbitrary. As a consequence, it becomes pointless to try to multiply and divide temperatures. It is wrong to say that $20^\circ$ is *twice as hot* as 10$^\circ$, just as it is weird and meaningless to try to claim that 20$^\circ$ is negative two times as hot as -10$^\circ$. 
+No entanto, observe que 0$^{\circ}$ não significa "nenhuma temperatura". Na verdade, significa "a temperatura na qual a água congela", o que é bastante arbitrário. Consequentemente, torna-se inútil tentar multiplicar e dividir temperaturas. É errado dizer que 20$^{\circ}$ é duas vezes mais quente que 10$^{\circ}$, assim como é estranho e sem sentido tentar afirmar que 20$^{\circ}$ é menos duas vezes mais quente que -10$^{\circ}$.
 
-Again, lets look at a more psychological example. Suppose I'm interested in looking at how the attitudes of first-year university students have changed over time. Obviously, I'm going to want to record the year in which each student started. This is an interval scale variable. A student who started in 2003 did arrive 5 years before a student who started in 2008. However, it would be completely insane for me to divide 2008 by 2003 and say that the second student started "1.0024 times later" than the first one. That doesn't make any sense at all.
+Novamente, vejamos um exemplo mais psicológico. Suponha que eu esteja interessado em observar como as atitudes de estudantes universitários do primeiro ano mudaram ao longo do tempo. Obviamente, vou querer registrar o ano em que cada aluno começou. Esta é uma variável de escala intervalar. Um aluno que começou em 2003 chegou 5 anos antes de um aluno que começou em 2008. No entanto, seria completamente insensato da minha parte dividir 2008 por 2003 e dizer que o segundo aluno começou "1,0024 vezes depois" do primeiro. Isso não faz o menor sentido.
 
-###Ratio scale
+### Escala de proporção
 
-The fourth and final type of variable to consider is a ***ratio scale*** variable, in which zero really means zero, and it's okay to multiply and divide. A good psychological example of a ratio scale variable is response time (RT). In a lot of tasks it's very common to record the amount of time somebody takes to solve a problem or answer a question, because it's an indicator of how difficult the task is. Suppose that Alan takes 2.3 seconds to respond to a question, whereas Ben takes 3.1 seconds. As with an interval scale variable, addition and subtraction are both meaningful here. Ben really did take 3.1 - 2.3 = 0.8 seconds longer than Alan did. However, notice that multiplication and division also make sense here too: Ben took 3.1 / 2.3 = 1.35 times as long as Alan did to answer the question. And the reason why you can do this is that, for a ratio scale variable such as RT, "zero seconds" really does mean "no time at all".
+O quarto e último tipo de variável a ser considerado é uma variável de **escala de razão**, na qual zero significa zero, e não há problema em multiplicar e dividir. Um bom exemplo psicológico de uma variável de escala de razão é o tempo de resposta (TR). Em muitas tarefas, é muito comum registrar o tempo que alguém leva para resolver um problema ou responder a uma pergunta, porque isso é um indicador de quão difícil a tarefa é. Suponha que Alan leve 2,3 segundos para responder a uma pergunta, enquanto Ben leva 3,1 segundos. Assim como em uma variável de escala intervalar, adição e subtração são significativas aqui. Ben realmente levou 3,1 - 2,3 = 0,8 segundos a mais do que Alan. No entanto, observe que multiplicação e divisão também fazem sentido aqui: Ben levou 3,1/2,3 = 1,35 vezes mais tempo que Alan para responder à pergunta. E o motivo pelo qual você pode fazer isso é que, para uma variável de uma escala de razão como TR, "zero segundos" realmente significa "tempo nenhum".
 
-### Continuous versus discrete variables{#continuousdiscrete}
+### Variáveis contínuas versus discretas
 
-There's a second kind of distinction that you need to be aware of, regarding what types of variables you can run into. This is the distinction between continuous variables and discrete variables. The difference between these is as follows:
+Há um segundo tipo de distinção que você precisa conhecer, em relação aos tipos de variáveis que você pode encontrar. É a distinção entre variáveis contínuas e variáveis discretas (@tbl-tab2-4). A diferença entre elas é a seguinte:
 
+- Uma **variável contínua** é aquela em que, para quaisquer dois valores que você possa imaginar, é sempre logicamente possível ter outro valor entre eles.
+- Uma **variável discreta** é, na verdade, uma variável que não é contínua. Para uma variável discreta, é possível que não haja nada no meio.
 
-- A ***continuous variable*** is one in which, for any two values that you can think of, it's always logically possible to have another value in between. 
-- A ***discrete variable*** is, in effect, a variable that isn't continuous. For a discrete variable, it's sometimes the case that there's nothing in the middle.
+Essas definições provavelmente parecem um pouco abstratas, mas são bem simples quando você vê alguns exemplos. Por exemplo, o tempo de resposta é contínuo. Se Alan leva 3,1 segundos e Ben leva 2,3 segundos para responder a uma pergunta, então o tempo de resposta de Cameron estará entre os dois se ele levou 3,0 segundos. E, claro, também seria possível que David levasse 3,031 segundos para responder, o que significa que seu RT estaria entre o de Cameron e o de Alan. E embora na prática seja impossível medir o RT com tanta precisão, em princípio, isso é possível. Como sempre podemos encontrar um novo valor para o RT entre quaisquer dois outros, consideramos o RT uma medida contínua.
 
-
-These definitions probably seem a bit abstract, but they're pretty simple once you see some examples. For instance, response time is continuous. If Alan takes 3.1 seconds and Ben takes 2.3 seconds to respond to a question, then   it's possible for Cameron's response time to lie in between, by taking 3.0 seconds. And of course it would also be possible for David to take 3.031 seconds to respond, meaning that his RT would lie in between Cameron's and Alan's. And while in practice it might be impossible to measure RT that precisely, it's certainly possible in principle. Because we can always find a new value for RT in between any two other ones, we say that RT is continuous.  
-
-Discrete variables occur when this rule is violated. For example, nominal scale variables are always discrete: there isn't a type of transportation that falls "in between" trains and bicycles, not in the strict mathematical way that 2.3 falls in between 2 and 3. So transportation type is discrete. Similarly, ordinal scale variables are always discrete: although "2nd place" does fall between "1st place" and "3rd place", there's nothing that can logically fall in between "1st place" and "2nd place".  Interval scale and ratio scale variables can go either way. As we saw above, response time (a ratio scale variable) is continuous. Temperature in degrees celsius (an interval scale variable) is also continuous. However, the year you went to school (an interval scale variable) is discrete. There's no year in between 2002 and 2003. The number of questions you get right on a true-or-false test (a ratio scale variable) is also discrete: since a true-or-false question doesn't allow you to be "partially correct", there's nothing in between 5/10 and 6/10. Table \@ref(tab:scalescont) summarises the relationship between the scales of measurement and the discrete/continuity distinction. Cells with a tick mark correspond to things that are possible. I'm trying to hammer this point home, because (a) some textbooks get this wrong, and (b) people very often say things like "discrete variable" when they mean "nominal scale variable". It's very unfortunate.
-
-
-
+Variáveis discretas ocorrem quando essa regra é violada. Por exemplo, variáveis de escala nominal são sempre discretas. Não existe um tipo de transporte que se situe "entre" trens e bicicletas, não da forma matemática estrita como 2,3 se situa entre 2 e 3. Portanto, o tipo de transporte é discreto. Da mesma forma, variáveis de escala ordinal são sempre discretas. Embora "2$^\circ$ lugar" se situe entre "1$^\circ$ lugar" e "3$^\circ$ lugar", não há nada que possa logicamente se situar entre "1º lugar" e "2º lugar". Variáveis de escala intervalar e de escala de razão podem ir em qualquer direção. Como vimos acima, o tempo de resposta (uma variável de escala de razão) é contínuo. A temperatura em graus Celsius (uma variável de escala intervalar) também é contínua. No entanto, o ano em que você estudou (uma variável de escala intervalar) é discreto. Não há ano entre 2002 e 2003. O número de questões que você acerta em um teste de verdadeiro ou falso (uma variável de escala de razão) também é discreto. Como uma questão de verdadeiro ou falso não permite que você esteja "parcialmente correto", não há nada entre 5/10 e 6/10. A tabéla \@ref(tab:scalescont) resume a relação entre as escalas de medida e a distinção discreta/continua. As células marcadas correspondem a coisas que são possíveis. Estou tentando enfatizar esse ponto porque (a) alguns livros didáticos erram nisso e (b) as pessoas frequentemente dizem coisas como "variável discreta" quando querem dizer "variável de escala nominal". É uma pena.
 
 ```{r scalescont, tidy=FALSE, echo=FALSE}
 knitr::kable(
-  rbind(c("", "continuous", "discrete"),
+  rbind(c("", "contínua", "discreta"),
         c("nominal", "", "$\\checkmark$"),
         c("ordinal", "", "$\\checkmark$"),
-        c("interval", "$\\checkmark$", "$\\checkmark$"),
-        c("ratio", "$\\checkmark$", "$\\checkmark$")
+        c("intervalar", "$\\checkmark$", "$\\checkmark$"),
+        c("proporção", "$\\checkmark$", "$\\checkmark$")
     
   )
-  , caption = 'The relationship between the scales of measurement and the discrete/continuity distinction. Cells with a tick mark correspond to things that are possible.', align="lcc",
+  , caption = 'A relação entre escalas de medidas e a distinção discreta/contínua. As células com marca de ???tiquecheck??? correspondem à coisas possíveis.', align="lcc",
   booktabs = TRUE
 )
 
 ```
 
-###Some complexities
+### Algumas ???complexidades???
 
-Okay, I know you're going to be shocked to hear this, but ... the real world is much messier than this little classification scheme suggests. Very few variables in real life actually fall into these nice neat categories, so you need to be kind of careful not to treat the scales of measurement as if they were hard and fast rules. It doesn't work like that: they're guidelines, intended to help you think about the situations in which you should treat different variables differently. Nothing more. 
+Ok, eu sei que você vai ficar chocado ao ouvir isso, mas o mundo real é muito mais confuso do que este pequeno esquema de classificação sugere. Muito poucas variáveis na vida real realmente se enquadram nessas categorias bem definidas, portanto, você precisa ser cuidadoso para não tratar as escalas de medição como se fossem regras imutáveis. Não funciona assim. Elas são diretrizes, destinadas a ajudá-lo a pensar sobre as situações em que você deve tratar variáveis diferentes de forma diferente. Nada além disso.
 
-So let's take a classic example, maybe *the* classic example, of a psychological measurement tool: the ***Likert scale***. The humble Likert scale is the bread and butter tool of all survey design. You yourself have filled out hundreds, maybe thousands of them, and odds are you've even used one yourself. Suppose we have a survey question that looks like this:
+Então, vamos pegar um exemplo clássico, talvez *o* exemplo clássico de uma ferramenta de medição psicológica: a **escala Likert**. A humilde escala Likert é a ferramenta básica de todo o desenho de pesquisa. Você mesmo já preencheu centenas (talvez milhares) de pesquisas que utilizam essa escala, e talvez já a tenha usado em uma pesquisa sua. Suponha que tenhamos uma pergunta numa pesquisa mais ou menos assim:
 
->Which of the following best describes your opinion of the statement that "all pirates are freaking awesome" ... 
+>Qual das seguintes opções melhor descreve sua opinião sobre a afirmação de que "todos os piratas são absolutamente incríveis" ...
 
-and then the options presented to the participant are these:
+e então as opções apresentadas ao participante são estas:
 
->(1) Strongly disagree
->(2) Disagree
->(3) Neither agree nor disagree
->(4) Agree
->(5) Strongly agree
+>(1) Discordo totalmente
+>(2) Discordo
+>(3) Nem concordo nem discordo
+>(4) Concordo
+>(5) Concordo totalmente
 
-This set of items is an example of a 5-point Likert scale: people are asked to choose among one of several (in this case 5) clearly ordered possibilities, generally with a verbal descriptor given in each case. However, it's not necessary that all items be explicitly described. This is a perfectly good example of a 5-point Likert scale too: 
+Este conjunto de itens é um exemplo de uma escala Likert de 5 pontos, na qual as pessoas são solicitadas a escolher entre uma das várias (neste caso, 5) possibilidades claramente ordenadas, geralmente com um descritor verbal para cada opção. No entanto, não é necessário que todos os itens sejam explicitamente descritos. Este é um exemplo perfeitamente bom de uma escala Likert de 5 pontos também:
 
->(1) Strongly disagree
+>(1) Discordo totalmente
 >(2) 
 >(3) 
 >(4) 
->(5) Strongly agree
+>(5) Concordo totalmente
 
+As escalas Likert são ferramentas muito úteis, embora um tanto limitadas. A questão é que tipo de variável elas são? Elas são obviamente discretas, já que você não pode dar uma resposta de 2,5. Elas obviamente não são de escala nominal, já que os itens são ordenados; e também não são de escala de razão, já que não há um zero natural.
 
-Likert scales are very handy, if somewhat limited, tools. The question is, what kind of variable are they? They're obviously discrete, since you can't give a response of 2.5. They're obviously not nominal scale, since the items are ordered; and they're not ratio scale either, since there's no natural zero. 
+Mas elas são escalas do tipo ordinal ou do tipo intervalar? Por um lado, não podemos realmente provar que a diferença entre "concordo totalmente" e "concordo" tem o mesmo tamanho que a diferença entre "concordo" e "nem concordo nem discordo". Na verdade, na vida cotidiana é bastante óbvio que não são a mesma coisa. Isso sugere que devemos tratar as escalas Likert como variáveis ordinais. Por outro lado, na prática, a maioria dos participantes parece levar a sério a parte de "em uma escala de 1 a 5", e eles tendem a agir como se as diferenças entre as cinco opções de resposta fossem bastante semelhantes entre si. Como consequência, muitos pesquisadores tratam os dados da escala Likert como escala de intervalo.[^02-a-brief-introduction-to-research-design-3] Não é uma escala de intervalo, mas na prática é perto o suficiente para que geralmente pensemos nela como sendo uma **escala quase-intervalar**.
 
-But are they ordinal scale or interval scale? One argument says that we can't really prove that the difference between "strongly agree" and "agree" is of the same size as the difference between "agree" and "neither agree nor disagree". In fact, in everyday life it's pretty obvious that they're not the same at all. So this suggests that we ought to treat Likert scales as ordinal variables. On the other hand, in practice most participants do seem to take the whole "on a scale from 1 to 5" part fairly seriously, and they tend to act as if the differences between the five response options were fairly similar to one another. As a consequence, a lot of researchers treat Likert scale data as if it were interval scale. It's not interval scale, but in practice it's close enough that we usually think of it as being ***quasi-interval scale***.  
+## Avaliando a confiabilidade de uma medição {#reliability}
 
-##Assessing the reliability of a measurement{#reliability}
+Neste ponto, pensamos um pouco sobre como operacionalizar um construto teórico e, assim, criar uma medida psicológica. E vimos que, aplicando mensurações psicológicas, geramos variáveis que podem ser de muitos tipos diferentes. Neste ponto, devemos começar a discutir a pergunta óbvia: a medição é boa? Faremos isso em termos de duas ideias relacionadas: *confiabilidade* e *validade*. Em resumo, a **_confiabilidade_** de uma medição diz o quão consistentes são os resultados da medição, enquanto a **validade** de uma medida diz o quão acurada (precisa) a medida é. Nesta seção, falaremos sobre confiabilidade; falaremos sobre validade na seção ???[Avaliando a validade de um estudo]???.
 
-At this point we've thought a little bit about how to operationalise a theoretical construct and thereby create a psychological measure; and we've seen that by applying psychological measures we end up with variables, which can come in many different types. At this point, we should start discussing the obvious question: is the measurement any good? We'll do this in terms of two related ideas: *reliability* and *validity*. Put simply, the **_reliability_** of a measure tells you how *precisely* you are measuring something, whereas the validity of a measure tells you how *accurate* the measure is. In this section I'll talk about reliability; we'll talk about validity in the next chapter. 
+A confiabilidade é, na verdade, um conceito muito simples. Refere-se à repetibilidade ou consistência de sua medição. A medição do meu peso por meio de uma "balança de banheiro" é muito confiável. Se eu subir e descer da balança várias vezes, ela continuará me dando a mesma resposta. Medir minha inteligência por meio de "perguntar à minha mãe" é muito pouco confiável. Alguns dias ela me diz que sou um pouco burro, e em outros dias ela me diz que sou um completo idiota. Observe que este conceito de confiabilidade é diferente da questão de saber se as medições estão corretas (a correção de uma medição se relaciona com sua validade). Se eu estiver segurando um saco de batatas quando subir e descer da balança, a medição ainda será confiável: ela sempre me dará a mesma resposta. No entanto, esta resposta altamente confiável não corresponde ao meu peso real, portanto, está errada. Em termos técnicos, esta é uma medição **confiável, mas inválida**. Da mesma forma, embora a estimativa da minha mãe sobre minha inteligência seja pouco confiável (consistente), ela pode estar certa. Talvez eu não seja muito inteligente, e então, apesar de a estimativa dela sobre minha inteligência flutuar bastante de um dia para o outro, em geral ela parece estar certa. Isso seria uma medida **não confiável, mas válida**. É claro que, se as estimativas da minha mãe forem muito pouco confiáveis, será muito difícil descobrir qual de suas muitas afirmações sobre minha inteligência é realmente a correta. Até certo ponto, uma medida muito pouco confiável tende a acabar sendo inválida para fins práticos; tanto que muitas pessoas diriam que a confiabilidade é necessária (mas não suficiente) para garantir a validade.
 
-Reliability is actually a very simple concept: it refers to the repeatability or consistency of your measurement. The measurement of my weight by means of a "bathroom scale" is very reliable: if I step on and off the scales over and over again, it'll keep giving me the same answer. Measuring my intelligence by means of "asking my mum" is very unreliable: some days she tells me I'm a bit thick, and other days she tells me I'm a complete moron. Notice that this concept of reliability is different to the question of whether the measurements are correct (the correctness of a measurement relates to it's validity). If I'm holding a sack of potatos when I step on and off of the bathroom scales, the measurement will still be reliable: it will always give me the same answer. However, this highly reliable answer doesn't match up to my true weight at all, therefore it's wrong. In technical terms, this is a *reliable but invalid* measurement. Similarly, while my mum's estimate of my intelligence is a bit unreliable, she might be right. Maybe I'm just not too bright, and so while her estimate of my intelligence fluctuates pretty wildly from day to day, it's basically right. So that would be an *unreliable but valid* measure. Of course, to some extent, notice that if my mum's estimates are too unreliable, it's going to be very hard to figure out which one of her many claims about my intelligence is actually the right one. To some extent, then, a very unreliable measure tends to end up being invalid for practical purposes; so much so that many people would say that reliability is necessary (but not sufficient) to ensure validity. 
+Ok, agora que sabemos claramente qual a diferença entre confiabilidade e validade, vamos pensar sobre as diferentes maneiras pelas quais poderíamos medidr a confiabilidade:
 
-
-Okay, now that we're clear on the distinction between reliability and validity, let's have a think about the different ways in which we might measure reliability:
-
-
-- ***Test-retest reliability***. This relates to consistency over time: if we repeat the measurement at a later date, do we get a the same answer?
-- ***Inter-rater reliability***. This relates to consistency across people: if someone else repeats the measurement (e.g., someone else rates my intelligence) will they produce the same answer?
-- ***Parallel forms reliability***. This relates to consistency across theoretically-equivalent measurements: if I use a different set of bathroom scales to measure my weight, does it give the same answer?
-- ***Internal consistency reliability***. If a measurement is constructed from lots of different parts  that perform similar functions (e.g., a personality questionnaire result is added up across several questions) do the individual parts tend to give similar answers. 
-
-
+- **Confiabilidade teste-reteste**. Isso se relaciona com a consistência ao longo do tempo. Se repetirmos a medição em uma data posterior, obtemos a mesma resposta?
+- **Confiabilidade entre avaliadores**. Isso se relaciona com a consistência entre as pessoas. Se outra pessoa repetir a medição (por exemplo, outra pessoa avaliar minha inteligência), ela produzirá a mesma resposta?
+- **Confiabilidade de formas paralelas**. Isso se relaciona com a consistência entre medições teoricamente equivalentes. Se eu usar um conjunto diferente de balanças de banheiro para medir meu peso, ele dá a mesma resposta?
+- **Confiabilidade de consistência interna**. Se uma medição é construída a partir de muitas partes diferentes que desempenham funções semelhantes (por exemplo, o resultado de um questionário sobre personalidade é obtido através do somatório de várias perguntas), as partes individuais tendem a dar respostas semelhantes (no nosso exemplo, as várias perguntas devem ter valores semelhantes). Analisaremos essa forma particular de confiabilidade mais tarde no livro, em @sec-Internal-consistency-reliability-analysis.
  
-Not all measurements need to possess all forms of reliability. For instance, educational assessment can be thought of as a form of measurement. One of the subjects that I teach, *Computational Cognitive Science*, has an assessment structure that has a research component and an exam component (plus other things). The exam component is *intended* to measure something different from the research component, so the assessment as a whole has low internal consistency. However, within the exam there are several questions that are intended to (approximately) measure the same things, and those tend to produce similar outcomes; so the exam on its own has a fairly high internal consistency. Which is as it should be. You should only demand reliability in those situations where you want to measure the same thing!
-
+Nem todas as medições precisam possuir todas as formas de confiabilidade. Por exemplo, a avaliação educacional pode ser pensada como uma forma de medição. Uma das disciplinas que eu leciono, *Ciência Cognitiva Computacional*, tem uma estrutura de avaliação que tem um componente de pesquisa e um componente de avaliação (além de outras coisas). O componente de avaliação é *destinado* a medir algo diferente do componente de pesquisa, portanto, a medição como um todo tem baixa consistência interna. No entanto, dentro da avaliação existem várias perguntas que se destinam a (aproximadamente) medir as mesmas coisas, e essas tendem a produzir resultados semelhantes. Portanto, a avaliação por si só tem uma consistência interna bastante alta. O que é como deveria ser. Você só deve exigir confiabilidade naquelas situações em que deseja medir a mesma coisa!
 
 ##The "role" of variables: predictors and outcomes{#ivdv}
 
